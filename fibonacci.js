@@ -1,6 +1,3 @@
-// Necesitas tomar un numero y volverlo array, si se pasa 8 normalmente un for iteraria hasta llegar a ese numero,
-// asi que debe haber algo que sume el primero con el segundo para obtener el tercero y asi para toda la iteracion e ir almacenandolos en un array 
-// y luego devolver ese array
 
 const fibs = (num) => {
     if (num === 0) return []
